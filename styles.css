@@ -30,6 +30,14 @@ button {
   width: 400px;
 }
 
+li p:hover {
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+}
+
 #root {
   display: flex;
   justify-content: center;
