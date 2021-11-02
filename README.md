@@ -1,5 +1,7 @@
 ### Simple Twitter
 
+[This app lives here](https://volodymyrsi.github.io/simpleTwitter/)
+
 ##### Welcome to my super minimalist and egoist *(as you can't read other's thoughts or share your thoughts with anyone)* app.
 
 ##### What this app does is it keeps track of user's inputs and allows the user to access their tweets after a page was closed or refreshed.
