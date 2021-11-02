@@ -1,0 +1,36 @@
+body {
+  background-color: #f3f3f3;
+}
+
+button {
+  outline: none;
+  border: 1px darkslategray solid;
+  border-radius: 3px;
+}
+
+.hidden {
+  display: none;
+}
+
+.modifyMessage {
+  position: absolute;
+}
+
+.popUp {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  top: 20%;
+  left: 95%;
+  transform: translateX(-100%);
+  background-color: grey;
+  height: 200px;
+  width: 400px;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
