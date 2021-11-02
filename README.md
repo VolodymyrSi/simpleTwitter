@@ -13,6 +13,6 @@
 
 - The input is validated - tweets must be unique, they can't be empty or exceed 140 characters.
 
-- User can 'like' and 'unlike' tweets(toggles a boolean variable in a tweet object). There is a 'favourites' page where user gets to see the liked tweets only.
+- User can `like` and `unlike` tweets(toggles a boolean variable in a tweet object). There is a `favourites` page where user gets to see the liked tweets only.
 
-- Finally there is a 'remove' button which deletes a tweet from the screen.
+- Finally there is a `remove` button which deletes a tweet from the screen.
